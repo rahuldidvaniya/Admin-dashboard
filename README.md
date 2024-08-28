@@ -1,33 +1,28 @@
-# Dashboard Project
 
 ## Overview
-This project is a dashboard that supports both light and dark modes. The design is clean and modern, featuring a sidebar, header, and main content area.
+This is a basic dashboard project that's part of [The Odin Project](https://www.theodinproject.com/) curriculum. The goal of this project is to practice creating a simple dashboard layout with light and dark mode functionality.
 
 ## Features
-- **Light and Dark Mode**: Toggle between light and dark themes for a better user experience.
-- **Customizable Layout**: The main content area is divided into a projects section and a trending section, allowing for easy customization and expansion.
+- **Light and Dark Mode**: Switch between light and dark themes to see how the design adapts.
+- **Simple Layout**: The dashboard includes a sidebar, header, and a main content area to help you get familiar with structuring a web page.
 
-## Technologies Used
-- **HTML**: Structure of the dashboard.
-- **CSS**: Styling, including grid layouts.
-- **JavaScript**: Theme toggling and additional interactivity.
+## What I Learned
+- How to use CSS variables to create light and dark themes.
+- Basic HTML and CSS layout techniques.
+- A bit of JavaScript to toggle between themes.
 
 ## Getting Started
 
-### Prerequisites
-To run this project locally, you need a basic understanding of HTML, CSS, and JavaScript.
-
 ### Installation
-1. Clone the repository:
-   ```bash
+1. Clone this repository to your local machine:
+  
    git clone https://github.com/your-username/dashboard-project.git
-Navigate to the project directory:
-cd dashboard-project
-Open the index.html file in your browser to view the dashboard.
-Live Demo:- https://rahuldidvaniya.github.io/Admin-dashboard/
+Open the index.html file in your browser to see the dashboard.
+Live Demo
+Check out the live version here.
 
-Usage
-Theme Toggle: Click the theme toggle button in the header to switch between light and dark modes.
-Project Management: Use the main content area to manage projects, view announcements, and track trending topics.
-Contributing
-Contributions are welcome! Feel free to open an issue or submit a pull request.
+Part of The Odin Project
+This project is a part of the curriculum in The Odin Project, a free and open-source web development curriculum. It's a great way to learn web development through hands-on projects.
+
+Acknowledgments
+Big thanks to The Odin Project for providing such an awesome learning platform!
